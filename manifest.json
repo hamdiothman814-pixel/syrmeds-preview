@@ -1,11 +1,11 @@
 {
-    "name": "دليل الأدوية السورية",
+    "name": "صيدلية الأدوية السورية",
     "short_name": "الأدوية السورية",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#084C3F",
     "theme_color": "#084C3F",
-    "description": "دليل الأدوية السورية — أسعار نشرة وزارة الصحة، الاستطبابات، البدائل والمحاذير",
+    "description": "صيدلية الأدوية السورية — أسعار نشرة وزارة الصحة، الاستطبابات، البدائل والمحاذير",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
